@@ -1,0 +1,18 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "toast-plugin": {
+    "source": {
+      "type": "local",
+      "path": "E:\\Test\\node_modules\\toast-plugin"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
